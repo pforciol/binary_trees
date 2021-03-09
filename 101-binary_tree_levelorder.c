@@ -46,7 +46,7 @@ void binary_tree_flevel(const binary_tree_t *tree, void (*func)(int), size_t l)
 	}
 }
 
-/*
+/**
  * binary_tree_levelorder - goes through binary tree using levelorder traversal
  *
  * @tree: a pointer to the root node of the tree to traverse
