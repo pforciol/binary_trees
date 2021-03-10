@@ -24,7 +24,7 @@ size_t binary_tree_height(const binary_tree_t *tree)
 	return (0);
 }
 
-/*
+/**
  * binary_tree_flevel - apply func to each element of the level
  *
  * @tree: a pointer to the root node of the tree to traverse
